@@ -1,0 +1,6 @@
+# Apple 服务规则 ChatGTP
+payload:
+  - '.appleintelligence.com'
+  - '.apple-ai.com'
+  - '.apple-relay.apple.com'
+  - '.apple-relay.cloudflare.com'
